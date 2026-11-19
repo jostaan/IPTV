@@ -13,6 +13,8 @@ https://dethich.pw/vtv5/index.m3u8
 https://dethich.pw/vtv5tnb/index.m3u8
 #EXTINF:-1 tvg-id="VTV5TayNguyen.vn@HD" tvg-name="VTV5 Tây Nguyên [HTTP]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Logo_m%E1%BB%9Bi_2026.webp" group-title="VTV",VTV5 Tây Nguyên [HTTP]
 http://dethich.pw/vtv5tn/index.m3u8
+#EXTINF:-1 tvg-id="VTV6.vn@HD" tvg-name="VTV6 HD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV6_new_logo_2026.webp/330px-VTV6_new_logo_2026.webp" group-title="VTV",VTV6 HD
+http://113.189.21.251:4022/rtp/232.84.1.119:10266
 #EXTINF:-1 tvg-id="VTV7.vn@HD" tvg-name="VTV7 HD" tvg-logo="https://i.ibb.co/Q3twkrbY/IMG-2681.webp" group-title="VTV",VTV7 HD
 https://dethich.pw/vtv7/index.m3u8
 #EXTINF:-1 tvg-id="VTV8.vn@HD" tvg-name="VTV8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/VTV8_logo_2026.png" group-title="VTV",VTV8 HD
