@@ -23,6 +23,8 @@ https://dethich.pw/vtv8/index.m3u8
 https://dethich.pw/vtv9/index.m3u8
 #EXTINF:-1 tvg-id="VTV10.vn@HD" tvg-name="VTV10 (trước đây là VTV Cần Thơ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/960px-VTV10_logo_2026.png" group-title="VTV",VTV10 (trước đây là VTV Cần Thơ)
 https://dethich.pw/vtv10/index.m3u8
+#EXTINF:-1 tvg-id="VTVCab-MTV@SD" tvg-name="VTVCab-MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/960px-HTV1.png" group-title="VTV",VTVCab-MTV
+http://113.189.21.251:4022/rtp/232.84.1.82:8466
 #EXTINF:-1 tvg-id="HTV1.vn@SD" tvg-name="HTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/960px-HTV1.png" group-title="HTV",HTV1
 https://dethich.pw/htv1/index.m3u8
 #EXTINF:-1 tvg-id="HTV2.vn@SD" tvg-name="HTV2 – Vie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/HTV2_-_Vie_Channel.png" group-title="HTV",HTV2 – Vie Channel
