@@ -21,8 +21,10 @@ https://dethich.pw/vtv8/index.m3u8
 https://dethich.pw/vtv9/index.m3u8
 #EXTINF:-1 tvg-id="VTV10.vn@HD" tvg-name="VTV10 (trước đây là VTV Cần Thơ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/960px-VTV10_logo_2026.png" group-title="VTV",VTV10 (trước đây là VTV Cần Thơ)
 https://dethich.pw/vtv10/index.m3u8
+
 #EXTINF:-1 tvg-id="VTVCab-MTV@SD" tvg-name="VTVCab-MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/960px-HTV1.png" group-title="VTV",VTVCab-MTV
 http://113.189.21.251:4022/rtp/232.84.1.82:8466
+
 #EXTINF:-1 tvg-id="HTV1.vn@SD" tvg-name="HTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/960px-HTV1.png" group-title="HTV",HTV1
 https://dethich.pw/htv1/index.m3u8
 #EXTINF:-1 tvg-id="HTV2.vn@SD" tvg-name="HTV2 – Vie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/HTV2_-_Vie_Channel.png" group-title="HTV",HTV2 – Vie Channel
@@ -39,6 +41,7 @@ https://dethich.pw/htv7/index.m3u8
 https://dethich.pw/htv9/index.m3u8
 #EXTINF:-1 tvg-id="HTVSports.vn@SD" tvg-name="HTV Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png" group-title="HTV",HTV Thể thao
 https://dethich.pw/htvthethao/index.m3u8
+
 #EXTINF:-1 tvg-id="HTVCFamily.vn@SD" tvg-name="HTVC Gia đình" tvg-logo="https://i.ibb.co/BVQtkHgF/IMG-2899.png" group-title="HTVC",HTVC Gia đình
 https://dethich.pw/htvcgiadinh/index.m3u8
 #EXTINF:-1 tvg-id="HTVCMovies.vn@SD" tvg-name="HTVC Phim" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/HTVC%20Phim%20HD.png" group-title="HTVC",HTVC Phim
@@ -47,15 +50,42 @@ https://dethich.pw/htvcphim/index.m3u8
 https://dethich.pw/htvcphunu/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ONBiBi.vn@HD" tvg-name="ON BiBi (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png" group-title="VieON",ON BiBi (1080p)
+#EXTINF:-1 tvg-id="ONBiBi.vn@HD" tvg-name="ON BiBi (1080p)" tvg-logo="https://www.onlive.vn/brand/onlive-logo.png" group-title="VieON",ON BiBi (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=178
-#EXTINF:-1 tvg-id="ONCine.vn@SD" tvg-name="ON Cine" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png" group-title="VieON",ON Cine
+#EXTINF:-1 tvg-id="ONCine.vn@SD" tvg-name="ON Cine" tvg-logo="https://www.onlive.vn/brand/onlive-logo.png" group-title="VieON",ON Cine
 https://freem3u.xyz/api/live/play.m3u8?vid=176
-#EXTINF:-1 tvg-id="ONEChannel.vn@HD" tvg-name="ON E Channel (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png" group-title="VieON",ON E Channel (1080p)
+#EXTINF:-1 tvg-id="ONEChannel.vn@HD" tvg-name="ON E Channel (1080p)" tvg-logo="https://www.onlive.vn/brand/onlive-logo.png" group-title="VieON",ON E Channel (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=182
-#EXTINF:-1 tvg-id="ONInfoTV.vn@HD" tvg-name="ON Info TV (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png" group-title="VieON",ON Info TV (1080p)
+#EXTINF:-1 tvg-id="ONInfoTV.vn@HD" tvg-name="ON Info TV (1080p)" tvg-logo="https://www.onlive.vn/brand/onlive-logo.png" group-title="VieON",ON Info TV (1080p)
 https://freem3u.xyz/api/live/play.m3u8?vid=189
-
+#EXTINF:-1 tvg-id="ONKids.vn@SD" tvg-name="ON Kids (720p)" tvg-logo="https://www.onlive.vn/brand/onlive-logo.png" group-title="VieON",ON Kids (720p)
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTINF:-1 tvg-id="ONLife.vn@SD" tvg-name="ON Life (720p)" tvg-logo="https://www.onlive.vn/brand/onlive-logo.png" group-title="VieON",ON Life (720p)
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+#EXTINF:-1 tvg-id="ONMovies.vn@SD" tvg-name="ON Movies (720p)" tvg-logo="https://www.onlive.vn/brand/onlive-logo.png" group-title="VieON",ON Movies (720p)
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+#EXTINF:-1 tvg-id="ONMusic.vn@SD" tvg-name="ON Music (1080p)" tvg-logo="https://www.onlive.vn/brand/onlive-logo.png" group-title="VieON",ON Music (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+#EXTINF:-1 tvg-id="ONO2TV.vn@SD" tvg-name="ON O2TV (1080p)" tvg-logo="https://www.onlive.vn/brand/onlive-logo.png" group-title="VieON",ON O2TV (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=136
+#EXTINF:-1 tvg-id="ONPhimViet.vn@SD" tvg-name="ON Phim Viet (1080p)" tvg-logo="https://www.onlive.vn/brand/onlive-logo.png" group-title="VieON",ON Phim Viet (1080p)
+https://vmttv.dpdns.org/tv360?id=175
+#EXTINF:-1 tvg-id="ONStyleTV.vn@SD" tvg-name="ON Style TV (1080p)" tvg-logo="https://www.onlive.vn/brand/onlive-logo.png" group-title="VieON",ON Style TV (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=184
+#EXTINF:-1 tvg-id="ONTrendingTV.vn@SD" tvg-name="ON Trending TV (1080p)" tvg-logo="https://www.onlive.vn/brand/onlive-logo.png" group-title="VieON",ON Trending TV (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=186
+#EXTINF:-1 tvg-id="ONVFamily.vn@SD" tvg-name="ON V Family (480p)" tvg-logo="https://www.onlive.vn/brand/onlive-logo.png" group-title="VieON",ON V Family (480p)
+https://vmttv.dpdns.org/tv360?id=187
+#EXTINF:-1 tvg-id="OnDrama.vn@SD",tvg-name="ON Vie Drama (720p)" tvg-logo="https://www.onlive.vn/brand/onlive-logo.png" group-title="VieON",ON Vie Drama (720p)
+http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
+#EXTINF:-1 tvg-id="ONVieDramas.vn@SD",tvg-name="ON Vie Dramas (1080i)" tvg-logo="https://www.onlive.vn/brand/onlive-logo.png" group-title="VieON",ON Vie Dramas (1080i)
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+#EXTINF:-1 tvg-id="ONVieDramas.vn@SD",tvg-name="ON Vie Dramas (1080p)" tvg-logo="https://www.onlive.vn/brand/onlive-logo.png" group-title="VieON",ON Vie Dramas (1080p)
+https://tv.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
+#EXTINF:-1 tvg-id="ONVieGiaiTri.vn@HD",tvg-name="ON Vie Giai Tri (1080p)" tvg-logo="https://www.onlive.vn/brand/onlive-logo.png" group-title="VieON",ON Vie Giai Tri (1080p)
+https://freem3u.xyz/api/live/play.m3u8?vid=180
+#EXTINF:-1 tvg-id="ONVieGiaiTri.vn@HD",tvg-name="ON Vie Giai Tri (1080i)" tvg-logo="https://www.onlive.vn/brand/onlive-logo.png" group-title="VieON",ON Vie Giai Tri (1080i)
+https://tv.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
 
 
 #EXTINF:-1 tvg-id="VinhLongTV1.vn@SD" tvg-name="THVL1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_THVL1_HD.png" group-title="THVL",THVL1
