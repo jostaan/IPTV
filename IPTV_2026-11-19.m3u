@@ -192,7 +192,7 @@ https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-name="Al Jazeera English" tvg-logo="https://dtil.tmsimg.com/assets/s159135_ld_h15_aa.png?lock=720x540" group-title="Quốc tế | Tin tức",Al Jazeera English
 https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="ArirangTV.kr@SD" tvg-name="Arirang TV [HTTP]" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Quốc tế | Tin tức",Arirang TV [HTTP]
+#EXTINF:-1 tvg-id="ArirangTV.kr@SD" tvg-name="Arirang TV" tvg-logo="https://i.imgur.com/Asu5pE9.png" group-title="Quốc tế | Tin tức",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SkyNews.ie@SD" tvg-name="Sky News" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" group-title="Quốc tế | Tin tức",Sky News
 https://dash4.antik.sk/live/test_skynews/playlist.m3u8
@@ -236,8 +236,6 @@ https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-id="TGJunior.us@SD" tvg-name="Toon Goggles Junior" tvg-logo="https://i.imgur.com/aqane40.png" group-title="Quốc tế | Giáo dục – Thiếu nhi",Toon Goggles Junior
 https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
-#EXTINF:-1 tvg-id="ToonGoggles.us@SD" tvg-name="Toon Goggles en Español" tvg-logo="https://i.imgur.com/JMnxswq.png" group-title="Quốc tế | Giáo dục – Thiếu nhi",Toon Goggles en Español
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
 #EXTINF:-1 tvg-id="PlutoTVRetroActionMovies.us@CA" tvg-name="Pluto TV Retro Action Movies" tvg-logo="https://images.pluto.tv/channels/69a9ae4d3bd16a4ed04240d7/colorLogoPNG_1774879695281.png" group-title="Quốc tế | Phim ảnh",Pluto TV Retro Action Movies
 https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComedyMovies.us@CA" tvg-name="Pluto TV Comedy Movies" tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png" group-title="Quốc tế | Phim ảnh",Pluto TV Comedy Movies
@@ -266,7 +264,7 @@ https://audio-lss.vov.vn/live/vov3.m3u8
 https://audio-lss.vov.vn/live/vov4.m3u8
 #EXTINF:-1 tvg-id="VOV5.vn@Radio" tvg-name="VOV5" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Radio",VOV5
 https://audio-lss.vov.vn/live/vov5.m3u8
-#EXTINF:-1 tvg-id="VOV247.vn@Radio" tvg-name="VOV5 247 English" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Radio",VOV5 247 English
+#EXTINF:-1 tvg-id="VOV247.vn@Radio" tvg-name="VOV5 247" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Radio",VOV5 247
 https://audio-lss.vov.vn/live/vov24_7.m3u8
 #EXTINF:-1 tvg-id="VOV6.vn@Radio" tvg-name="VOV6" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Radio",VOV6
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/.m3u8
