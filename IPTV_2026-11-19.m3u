@@ -63,7 +63,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
 #EXTINF:-1 tvg-id="SCTV3.vn@SD" tvg-name="SCTV3 – SEE TV HD" tvg-logo="https://i.ibb.co/CnmttZQ/ccsctv3.webp" group-title="SCTV",SCTV3 – SEE TV HD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
 #EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8
 #EXTINF:-1 tvg-id="SCTV4.vn@SD" tvg-name="SCTV4" tvg-logo="https://i.imgur.com/qkZhzQq.png" group-title="SCTV",SCTV4
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
 #EXTINF:-1 tvg-id="SCTV6.vn@SD" tvg-name="SCTV6" tvg-logo="https://i.imgur.com/2oOVS42.png" group-title="SCTV",SCTV6
