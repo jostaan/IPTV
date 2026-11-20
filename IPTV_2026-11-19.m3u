@@ -23,6 +23,8 @@ https://dethich.pw/vtv8/index.m3u8
 https://dethich.pw/vtv9/index.m3u8
 #EXTINF:-1 tvg-id="VTV10.vn@HD" tvg-name="VTV10 (trước đây là VTV Cần Thơ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/960px-VTV10_logo_2026.png" group-title="VTV",VTV10 (trước đây là VTV Cần Thơ)
 https://dethich.pw/vtv10/index.m3u8
+#EXTINF:-1 tvg-id="VietnamToday.vn@HD" tvg-name="Vietnam Today" tvg-logo="https://i.imgur.com/xW9rY7s.png" group-title="VTV",Vietnam Today
+https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 
 #EXTINF:-1 tvg-id="HTV1.vn@SD" tvg-name="HTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/960px-HTV1.png" group-title="HTV",HTV1
 https://dethich.pw/htv1/index.m3u8
@@ -55,7 +57,7 @@ https://1011154949.vnns.net/htvc/htvcplus.adm.720p.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcdulichhd" tvg-name="HTVC Du Lịch" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/83/HTVC_DLCS_2016-2020.png/revision/latest?cb=20220609030426&path-prefix=vi" group-title="HTVC",HTVC Du Lịch & Cuộc Sống
 https://1011154949.vnns.net/htvc/htvcdulich.adm.720p.tms/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SCTV2.vn@SD" tvg-name="SCTV2" tvg-logo="https://i.imgur.com/8i5DXIg.png" group-title="SCTV",SCTV2
+#EXTINF:-1 tvg-id="SCTV2.vn@SD" tvg-name="SCTV2 - Today TV" tvg-logo="https://i.imgur.com/8i5DXIg.png" group-title="SCTV",SCTV2 - Today TV
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
 #EXTINF:-1 tvg-id="SCTV3.vn@SD" tvg-name="SCTV3 – SEE TV HD" tvg-logo="https://i.ibb.co/CnmttZQ/ccsctv3.webp" group-title="SCTV",SCTV3 – SEE TV HD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
@@ -86,12 +88,10 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8
 #EXTINF:-1 tvg-id="SCTV20.vn@SD" tvg-name="SCTV20" tvg-logo="https://i.imgur.com/7ABZhfZ.png" group-title="SCTV",SCTV20
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
 
-#EXTINF:-1 tvg-id="AnNinhTV.vn@HD" tvg-name="ANTV – An ninh TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Việt Nam | Tin thiết yếu",ANTV – An ninh TV
+#EXTINF:-1 tvg-id="AnNinhTV.vn@HD" tvg-name="ANTV – An ninh TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Nhà nước",ANTV – An ninh TV
 https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
-#EXTINF:-1 tvg-id="QPVN.vn@HD" tvg-name="QPVN – Quốc phòng Việt Nam" tvg-logo="https://i.imgur.com/GQO7UNu.png" group-title="Việt Nam | Tin thiết yếu",QPVN – Quốc phòng Việt Nam
+#EXTINF:-1 tvg-id="QPVN.vn@HD" tvg-name="QPVN – Quốc phòng Việt Nam" tvg-logo="https://i.imgur.com/GQO7UNu.png" group-title="Nhà nước",QPVN – Quốc phòng Việt Nam
 https://qpvn.vn/live/qpvn/master.m3u8
-#EXTINF:-1 tvg-id="VietnamToday.vn@HD" tvg-name="Vietnam Today" tvg-logo="https://i.imgur.com/xW9rY7s.png" group-title="Việt Nam | Tin thiết yếu",Vietnam Today
-https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
 
 #EXTINF:-1 tvg-id="TVBVietnam.vn@SD" tvg-name="TVB Vietnam" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/TVB%20Vietnam.jpeg" group-title="TVB",TVB Vietnam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
@@ -136,15 +136,15 @@ https://freem3u.xyz/api/live/play.m3u8?vid=177
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 
-#EXTINF:-1 tvg-id="VinhLongTV1.vn@SD" tvg-name="THVL1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_THVL1_HD.png" group-title="THVL",THVL1
+#EXTINF:-1 tvg-id="VinhLongTV1.vn@SD" tvg-name="THVL1 - Thời sự" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_THVL1_HD.png" group-title="THVL",THVL1 - Thời sự
 https://dethich.pw/thvl1/index.m3u8
-#EXTINF:-1 tvg-id="VinhLongTV2.vn@SD" tvg-name="THVL2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_THVL2_HD.png" group-title="THVL",THVL2
+#EXTINF:-1 tvg-id="VinhLongTV2.vn@SD" tvg-name="THVL2 - Giải trí" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_THVL2_HD.png" group-title="THVL",THVL2 - Giải trí
 https://dethich.pw/thvl2/index.m3u8
-#EXTINF:-1 tvg-id="VinhLongTV3.vn@SD" tvg-name="THVL3" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/THVL3_HD_logo_01-02.02.2019.png/revision/latest?cb=20230420133737&path-prefix=vi" group-title="THVL",THVL3
+#EXTINF:-1 tvg-id="VinhLongTV3.vn@SD" tvg-name="THVL3 - Phim truyện" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a3/THVL3_HD_logo_01-02.02.2019.png/revision/latest?cb=20230420133737&path-prefix=vi" group-title="THVL",THVL3 - Phim truyện
 https://dethich.pw/thvl3/index.m3u8
-#EXTINF:-1 tvg-id="VinhLongTV4.vn@SD" tvg-name="THVL4" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/THVL4_HD_b%E1%BA%A3n_2.png/revision/latest?cb=20220505111112&path-prefix=vi" group-title="THVL",THVL4
+#EXTINF:-1 tvg-id="VinhLongTV4.vn@SD" tvg-name="THVL4 - Chuyên đề HD" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/48/THVL4_HD_b%E1%BA%A3n_2.png/revision/latest?cb=20220505111112&path-prefix=vi" group-title="THVL",THVL4 - Chuyên đề HD
 https://dethich.pw/thvl4/index.m3u8
-#EXTINF:-1 tvg-id="VinhLongTV5.vn@SD" tvg-name="THVL5" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%205%20HD.png" group-title="THVL",THVL5
+#EXTINF:-1 tvg-id="VinhLongTV5.vn@SD" tvg-name="THVL5 - Khmer" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%205%20HD.png" group-title="THVL",THVL5 - Khmer
 https://dethich.pw/thvl5/index.m3u8
 
 #EXTINF:-1 tvg-id="CanThoTV.vn@SD" tvg-name="Cần Thơ TV1" tvg-logo="https://i.ibb.co/MDhNH26J/cantho1-2025.png" group-title="Cần Thơ",Cần Thơ TV1
