@@ -262,6 +262,14 @@ https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
 https://audio-lss.vov.vn/live/vov2.m3u8
 #EXTINF:-1 tvg-id="VOV3.vn@Radio" tvg-name="VOV3 – Âm nhạc" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Radio",VOV3 – Âm nhạc
 https://audio-lss.vov.vn/live/vov3.m3u8
+#EXTINF:-1 tvg-id="VOV4.vn@Radio" tvg-name="VOV4" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Radio",VOV4
+https://audio-lss.vov.vn/live/vov4.m3u8
+#EXTINF:-1 tvg-id="VOV5.vn@Radio" tvg-name="VOV5" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Radio",VOV5
+https://audio-lss.vov.vn/live/vov5.m3u8
+#EXTINF:-1 tvg-id="VOV247.vn@Radio" tvg-name="VOV5 247" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Radio",VOV5 247
+https://audio-lss.vov.vn/live/vov24_7.m3u8
+#EXTINF:-1 tvg-id="VOV6.vn@Radio" tvg-name="VOV6" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Radio",VOV6
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/.m3u8
 #EXTINF:-1 tvg-id="VOVGTHN.vn@Radio" tvg-name="VOV Giao thông Hà Nội" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Radio",VOV Giao thông Hà Nội
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
 #EXTINF:-1 tvg-id="VOVGTHCM.vn@Radio" tvg-name="VOV Giao thông TP.HCM" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Radio",VOV Giao thông TP.HCM
