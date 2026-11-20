@@ -40,11 +40,11 @@ https://dethich.pw/htv7/index.m3u8
 https://dethich.pw/htv9/index.m3u8
 #EXTINF:-1 tvg-id="HTVSports.vn@SD" tvg-name="HTV Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png" group-title="HTV",HTV Thể thao
 https://dethich.pw/htvthethao/index.m3u8
-#EXTINF:-1 tvg-id="HTVCFamily.vn@SD" tvg-name="HTVC Gia đình" tvg-logo="https://i.ibb.co/BVQtkHgF/IMG-2899.png" group-title="HTVC",HTVC Gia đình
+#EXTINF:-1 tvg-id="HTVCFamily.vn@SD" tvg-name="HTVC Gia đình" tvg-logo="https://i.ibb.co/BVQtkHgF/IMG-2899.png" group-title="HTV",HTVC Gia đình
 https://dethich.pw/htvcgiadinh/index.m3u8
-#EXTINF:-1 tvg-id="HTVCMovies.vn@SD" tvg-name="HTVC Phim" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/HTVC%20Phim%20HD.png" group-title="HTVC",HTVC Phim
+#EXTINF:-1 tvg-id="HTVCMovies.vn@SD" tvg-name="HTVC Phim" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/HTVC%20Phim%20HD.png" group-title="HTV",HTVC Phim
 https://dethich.pw/htvcphim/index.m3u8
-#EXTINF:-1 tvg-id="HTVCWomen.vn@SD" tvg-name="HTVC Phụ nữ" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png" group-title="HTVC",HTVC Phụ nữ
+#EXTINF:-1 tvg-id="HTVCWomen.vn@SD" tvg-name="HTVC Phụ nữ" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png" group-title="HTV",HTVC Phụ nữ
 https://dethich.pw/htvcphunu/index.m3u8
 
 #EXTINF:-1 tvg-id="VinhLongTV1.vn@SD" tvg-name="THVL1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_THVL1_HD.png" group-title="THVL",THVL1
