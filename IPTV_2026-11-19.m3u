@@ -11,7 +11,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master.m3u8
 https://dethich.pw/vtv5/index.m3u8
 #EXTINF:-1 tvg-id="VTV5TayNamBo.vn@HD" tvg-name="VTV5 Tây Nam Bộ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/VTV5_T%C3%A2y_Nam_B%E1%BB%99.webp" group-title="VTV",VTV5 Tây Nam Bộ
 https://dethich.pw/vtv5tnb/index.m3u8
-#EXTINF:-1 tvg-id="VTV5TayNguyen.vn@HD" tvg-name="VTV5 Tây Nguyên [HTTP]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Logo_m%E1%BB%9Bi_2026.webp" group-title="VTV",VTV5 Tây Nguyên [HTTP]
+#EXTINF:-1 tvg-id="VTV5TayNguyen.vn@HD" tvg-name="VTV5 Tây Nguyên" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Logo_m%E1%BB%9Bi_2026.webp" group-title="VTV",VTV5 Tây Nguyên
 http://dethich.pw/vtv5tn/index.m3u8
 #EXTINF:-1 tvg-id="VTV7.vn@HD" tvg-name="VTV7 HD" tvg-logo="https://i.ibb.co/Q3twkrbY/IMG-2681.webp" group-title="VTV",VTV7 HD
 https://dethich.pw/vtv7/index.m3u8
