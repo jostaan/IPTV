@@ -21,6 +21,7 @@ https://dethich.pw/vtv8/index.m3u8
 https://dethich.pw/vtv9/index.m3u8
 #EXTINF:-1 tvg-id="VTV10.vn@HD" tvg-name="VTV10 (trước đây là VTV Cần Thơ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/VTV10_logo_2026.png/960px-VTV10_logo_2026.png" group-title="VTV",VTV10 (trước đây là VTV Cần Thơ)
 https://dethich.pw/vtv10/index.m3u8
+
 #EXTINF:-1 tvg-id="HTV1.vn@SD" tvg-name="HTV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/HTV1.png/960px-HTV1.png" group-title="HTV",HTV1
 https://dethich.pw/htv1/index.m3u8
 #EXTINF:-1 tvg-id="HTV2.vn@SD" tvg-name="HTV2 – Vie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/HTV2_-_Vie_Channel.png" group-title="HTV",HTV2 – Vie Channel
@@ -43,6 +44,7 @@ https://dethich.pw/htvcgiadinh/index.m3u8
 https://dethich.pw/htvcphim/index.m3u8
 #EXTINF:-1 tvg-id="HTVCWomen.vn@SD" tvg-name="HTVC Phụ nữ" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png" group-title="HTVC",HTVC Phụ nữ
 https://dethich.pw/htvcphunu/index.m3u8
+
 #EXTINF:-1 tvg-id="VinhLongTV1.vn@SD" tvg-name="THVL1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_THVL1_HD.png" group-title="THVL",THVL1
 https://dethich.pw/thvl1/index.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV2.vn@SD" tvg-name="THVL2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_THVL2_HD.png" group-title="THVL",THVL2
@@ -53,8 +55,13 @@ https://dethich.pw/thvl3/index.m3u8
 https://dethich.pw/thvl4/index.m3u8
 #EXTINF:-1 tvg-id="VinhLongTV5.vn@SD" tvg-name="THVL5" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/Truy%E1%BB%81n%20h%C3%ACnh%20V%C4%A9nh%20Long%205%20HD.png" group-title="THVL",THVL5
 https://dethich.pw/thvl5/index.m3u8
+
 #EXTINF:-1 tvg-id="SCTV2.vn@SD" tvg-name="SCTV2" tvg-logo="https://i.imgur.com/8i5DXIg.png" group-title="SCTV",SCTV2
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8
+#EXTINF:-1 tvg-id="SCTV3.vn@SD" tvg-name="SCTV3 – SEE TV HD" tvg-logo="https://i.ibb.co/CnmttZQ/ccsctv3.webp" group-title="SCTV",SCTV3 – SEE TV HD
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8
 #EXTINF:-1 tvg-id="SCTV4.vn@SD" tvg-name="SCTV4" tvg-logo="https://i.imgur.com/qkZhzQq.png" group-title="SCTV",SCTV4
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
 #EXTINF:-1 tvg-id="SCTV6.vn@SD" tvg-name="SCTV6" tvg-logo="https://i.imgur.com/2oOVS42.png" group-title="SCTV",SCTV6
@@ -79,12 +86,54 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8
 #EXTINF:-1 tvg-id="SCTV20.vn@SD" tvg-name="SCTV20" tvg-logo="https://i.imgur.com/7ABZhfZ.png" group-title="SCTV",SCTV20
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
+
 #EXTINF:-1 tvg-id="AnNinhTV.vn@HD" tvg-name="ANTV – An ninh TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi" group-title="Việt Nam | Tin thiết yếu",ANTV – An ninh TV
 https://liveh12.vtvprime.vn/hls/ANNINHTV/index.m3u8
 #EXTINF:-1 tvg-id="QPVN.vn@HD" tvg-name="QPVN – Quốc phòng Việt Nam" tvg-logo="https://i.imgur.com/GQO7UNu.png" group-title="Việt Nam | Tin thiết yếu",QPVN – Quốc phòng Việt Nam
 https://qpvn.vn/live/qpvn/master.m3u8
 #EXTINF:-1 tvg-id="VietnamToday.vn@HD" tvg-name="Vietnam Today" tvg-logo="https://i.imgur.com/xW9rY7s.png" group-title="Việt Nam | Tin thiết yếu",Vietnam Today
 https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
+
+#EXTINF:-1 tvg-id="ONBiBi.vn@SD" tvg-name="ON BiBi" tvg-logo="https://i.imgur.com/YFmPo7l.png" group-title="VTVcab – ON",ON BiBi
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+#EXTINF:-1 tvg-id="ONCine.vn@SD" tvg-name="ON Cine" tvg-logo="https://i.imgur.com/6f9ngwY.png" group-title="VTVcab – ON",ON Cine
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+#EXTINF:-1 tvg-id="ONEChannel.vn@HD" tvg-name="ON E Channel" tvg-logo="https://i.imgur.com/87JEXEQ.png" group-title="VTVcab – ON",ON E Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=182
+#EXTINF:-1 tvg-id="ONInfoTV.vn@SD" tvg-name="ON Info TV" tvg-logo="https://i.imgur.com/jp57P0v.png" group-title="VTVcab – ON",ON Info TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=189
+#EXTINF:-1 tvg-id="ONKids.vn@SD" tvg-name="ON Kids" tvg-logo="https://i.imgur.com/3XEFbua.png" group-title="VTVcab – ON",ON Kids
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTINF:-1 tvg-id="ONLife.vn@SD" tvg-name="ON Life" tvg-logo="https://i.imgur.com/2xT5HFx.png" group-title="VTVcab – ON",ON Life
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=188
+#EXTINF:-1 tvg-id="ONMovies.vn@SD" tvg-name="ON Movies" tvg-logo="https://i.imgur.com/765Y3jw.png" group-title="VTVcab – ON",ON Movies
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+#EXTINF:-1 tvg-id="ONMusic.vn@SD" tvg-name="ON Music" tvg-logo="https://i.imgur.com/45BXPY3.png" group-title="VTVcab – ON",ON Music
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+#EXTINF:-1 tvg-id="ONO2TV.vn@SD" tvg-name="ON O2TV" tvg-logo="https://i.imgur.com/nqwVkmM.png" group-title="VTVcab – ON",ON O2TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=136
+#EXTINF:-1 tvg-id="ONStyleTV.vn@SD" tvg-name="ON Style TV" tvg-logo="https://i.imgur.com/6LQ0Z1O.png" group-title="VTVcab – ON",ON Style TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=184
+#EXTINF:-1 tvg-id="ONTrendingTV.vn@SD" tvg-name="ON Trending TV" tvg-logo="https://i.imgur.com/hHYzxmS.png" group-title="VTVcab – ON",ON Trending TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=186
+#EXTINF:-1 tvg-id="ONVieDramas.vn@SD" tvg-name="ON Vie Dramas" tvg-logo="https://i.imgur.com/n7QICK7.png" group-title="VTVcab – ON",ON Vie Dramas
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+#EXTINF:-1 tvg-id="ONVieGiaiTri.vn@HD" tvg-name="ON Vie Giải Trí" tvg-logo="https://i.imgur.com/7GSKm46.png" group-title="VTVcab – ON",ON Vie Giải Trí
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=180
+
 #EXTINF:-1 tvg-id="TVBVietnam.vn@SD" tvg-name="TVB Vietnam" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/TVB%20Vietnam.jpeg" group-title="Quốc tế | Châu Á – Giải trí",TVB Vietnam
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
 #EXTINF:-1 tvg-id="CaoBangTV.vn@SD" tvg-name="Cao Bằng TV" tvg-logo="https://i.imgur.com/dGonewm.png" group-title="Địa phương | Miền Bắc",Cao Bằng TV
@@ -213,46 +262,5 @@ https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3
 https://cdn.thhp.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8
 #EXTINF:-1 tvg-id="RVA_Vietnamese@Radio" tvg-name="RVA Vietnamese" group-title="Radio",RVA Vietnamese
 https://livestream.rvasia.org:8443/Vietnamese.mp3
-#EXTINF:-1 tvg-id="SCTV3.vn@SD" tvg-name="SCTV3 – SEE TV HD" tvg-logo="https://i.ibb.co/CnmttZQ/ccsctv3.webp" group-title="Nguồn mới thử nghiệm | SCTV",SCTV3 – SEE TV HD
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/coocaaTV
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8
-#EXTINF:-1 tvg-id="ONBiBi.vn@SD" tvg-name="ON BiBi" tvg-logo="https://i.imgur.com/YFmPo7l.png" group-title="Nguồn mới thử nghiệm | VTVcab – ON",ON BiBi
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=178
-#EXTINF:-1 tvg-id="ONCine.vn@SD" tvg-name="ON Cine" tvg-logo="https://i.imgur.com/6f9ngwY.png" group-title="Nguồn mới thử nghiệm | VTVcab – ON",ON Cine
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=176
-#EXTINF:-1 tvg-id="ONEChannel.vn@HD" tvg-name="ON E Channel" tvg-logo="https://i.imgur.com/87JEXEQ.png" group-title="Nguồn mới thử nghiệm | VTVcab – ON",ON E Channel
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=182
-#EXTINF:-1 tvg-id="ONInfoTV.vn@SD" tvg-name="ON Info TV" tvg-logo="https://i.imgur.com/jp57P0v.png" group-title="Nguồn mới thử nghiệm | VTVcab – ON",ON Info TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=189
-#EXTINF:-1 tvg-id="ONKids.vn@SD" tvg-name="ON Kids" tvg-logo="https://i.imgur.com/3XEFbua.png" group-title="Nguồn mới thử nghiệm | VTVcab – ON",ON Kids
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=179
-#EXTINF:-1 tvg-id="ONLife.vn@SD" tvg-name="ON Life" tvg-logo="https://i.imgur.com/2xT5HFx.png" group-title="Nguồn mới thử nghiệm | VTVcab – ON",ON Life
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=188
-#EXTINF:-1 tvg-id="ONMovies.vn@SD" tvg-name="ON Movies" tvg-logo="https://i.imgur.com/765Y3jw.png" group-title="Nguồn mới thử nghiệm | VTVcab – ON",ON Movies
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=181
-#EXTINF:-1 tvg-id="ONMusic.vn@SD" tvg-name="ON Music" tvg-logo="https://i.imgur.com/45BXPY3.png" group-title="Nguồn mới thử nghiệm | VTVcab – ON",ON Music
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=185
-#EXTINF:-1 tvg-id="ONO2TV.vn@SD" tvg-name="ON O2TV" tvg-logo="https://i.imgur.com/nqwVkmM.png" group-title="Nguồn mới thử nghiệm | VTVcab – ON",ON O2TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=136
-#EXTINF:-1 tvg-id="ONStyleTV.vn@SD" tvg-name="ON Style TV" tvg-logo="https://i.imgur.com/6LQ0Z1O.png" group-title="Nguồn mới thử nghiệm | VTVcab – ON",ON Style TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=184
-#EXTINF:-1 tvg-id="ONTrendingTV.vn@SD" tvg-name="ON Trending TV" tvg-logo="https://i.imgur.com/hHYzxmS.png" group-title="Nguồn mới thử nghiệm | VTVcab – ON",ON Trending TV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=186
-#EXTINF:-1 tvg-id="ONVieDramas.vn@SD" tvg-name="ON Vie Dramas" tvg-logo="https://i.imgur.com/n7QICK7.png" group-title="Nguồn mới thử nghiệm | VTVcab – ON",ON Vie Dramas
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:-1 tvg-id="ONVieGiaiTri.vn@HD" tvg-name="ON Vie Giải Trí" tvg-logo="https://i.imgur.com/7GSKm46.png" group-title="Nguồn mới thử nghiệm | VTVcab – ON",ON Vie Giải Trí
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=180
+
+
