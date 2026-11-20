@@ -218,11 +218,6 @@ https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-id="TGJunior.us@SD" tvg-name="Toon Goggles Junior" tvg-logo="https://i.imgur.com/aqane40.png" group-title="Quốc tế | Giáo dục – Thiếu nhi",Toon Goggles Junior
 https://d3i6upqaqzosi1.cloudfront.net/tg/jr_us/tg_jr_us.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVRetroActionMovies.us@CA" tvg-name="Pluto TV Retro Action Movies" tvg-logo="https://images.pluto.tv/channels/69a9ae4d3bd16a4ed04240d7/colorLogoPNG_1774879695281.png" group-title="Quốc tế | Phim ảnh",Pluto TV Retro Action Movies
-https://jmp2.uk/plu-69a9ae4d3bd16a4ed04240d7.m3u8
-#EXTINF:-1 tvg-id="PlutoTVComedyMovies.us@CA" tvg-name="Pluto TV Comedy Movies" tvg-logo="https://images.pluto.tv/channels/62ea3d24b8e02600071fa296/colorLogoPNG.png" group-title="Quốc tế | Phim ảnh",Pluto TV Comedy Movies
-https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
-
 #EXTINF:-1 tvg-id="VevoPop.us@SD" tvg-name="Vevo Pop" tvg-logo="https://i.imgur.com/dZHktKR.png" group-title="Quốc tế | Âm nhạc",Vevo Pop
 https://d2n5ee9u100agb.cloudfront.net/Vevo_Pop.m3u8
 #EXTINF:-1 tvg-id="VevoHipHop.us@SD" tvg-name="Vevo Hip Hop" tvg-logo="https://i.imgur.com/Lbc9cYw.png" group-title="Quốc tế | Âm nhạc",Vevo Hip Hop
