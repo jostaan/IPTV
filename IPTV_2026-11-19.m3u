@@ -257,8 +257,6 @@ https://str.vov.gov.vn/vovlive/vov2.sdp_aac/.m3u8
 https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="RFIVietnamese.fr@Radio" tvg-name="RFI Tiếng Việt" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="Radio",RFI Tiếng Việt
 https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3
-#EXTINF:-1 tvg-id="HaiPhongFM.vn@Radio" tvg-name="Hải Phòng FM 102.2" tvg-logo="https://i.imgur.com/iq9JLb9.png" group-title="Radio",Hải Phòng FM 102.2
-https://cdn.thhp.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8
 #EXTINF:-1 tvg-id="RVA_Vietnamese@Radio" tvg-name="RVA Vietnamese" group-title="Radio",RVA Vietnamese
 https://livestream.rvasia.org:8443/Vietnamese.mp3
 
