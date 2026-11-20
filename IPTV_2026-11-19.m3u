@@ -262,18 +262,16 @@ https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
 https://audio-lss.vov.vn/live/vov2.m3u8
 #EXTINF:-1 tvg-id="VOV3.vn@Radio" tvg-name="VOV3 – Âm nhạc" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Radio",VOV3 – Âm nhạc
 https://audio-lss.vov.vn/live/vov3.m3u8
-#EXTINF:-1 tvg-id="VOV4.vn@Radio" tvg-name="VOV4" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Radio",VOV4
+#EXTINF:-1 tvg-id="VOV4.vn@Radio" tvg-name="VOV4 Tay Nguyen" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Radio",VOV4 Tay Nguyen
 https://audio-lss.vov.vn/live/vov4.m3u8
 #EXTINF:-1 tvg-id="VOV5.vn@Radio" tvg-name="VOV5" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Radio",VOV5
 https://audio-lss.vov.vn/live/vov5.m3u8
-#EXTINF:-1 tvg-id="VOV247.vn@Radio" tvg-name="VOV5 247" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Radio",VOV5 247
+#EXTINF:-1 tvg-id="VOV247.vn@Radio" tvg-name="VOV5 247 English" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Radio",VOV5 247 English
 https://audio-lss.vov.vn/live/vov24_7.m3u8
 #EXTINF:-1 tvg-id="VOV6.vn@Radio" tvg-name="VOV6" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Radio",VOV6
 https://str.vov.gov.vn/vovlive/vov2.sdp_aac/.m3u8
-#EXTINF:-1 tvg-id="VOVGTHN.vn@Radio" tvg-name="VOV Giao thông Hà Nội" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Radio",VOV Giao thông Hà Nội
-https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
 #EXTINF:-1 tvg-id="VOVGTHCM.vn@Radio" tvg-name="VOV Giao thông TP.HCM" tvg-logo="https://i.imgur.com/tfYNZmG.png" group-title="Radio",VOV Giao thông TP.HCM
-https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
+https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="RFIVietnamese.fr@Radio" tvg-name="RFI Tiếng Việt" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="Radio",RFI Tiếng Việt
 https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3
 #EXTINF:-1 tvg-id="HaiPhongFM.vn@Radio" tvg-name="Hải Phòng FM 102.2" tvg-logo="https://i.imgur.com/iq9JLb9.png" group-title="Radio",Hải Phòng FM 102.2
